@@ -55,20 +55,34 @@ A collection of data analysis projects demonstrating end-to-end analytics capabi
 
 ## 🎯 Skills
 
-- **Deep data analysis:**  preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
-- **Writing complex SQL queries:**  working with nested queries, window functions, CASE and WITH statements for data extraction and analysis.
-- **Understanding product strategy:**  knowledge of product development and improvement principles, including analyzing user needs and formulating recommendations for its growth.
-- **Product metrics analysis:**  LTV, RR, CR, ARPU, ARPPU, MAU, DAU, and other key performance indicators.
-- **Conducting A/B testing:**  analyzing results using statistical methods to evaluate the effectiveness of changes.
-- **Cohort analysis and RFM segmentation:**  identifying user behavior patterns to optimize marketing strategies.
-- **End-to-End Data Pipelines:** Building automated ETL processes from databases to dashboards with Airflow orchestration.
-- **Data visualization and dashboard development:**  creating interactive reports in Tableau, Redash, Power BI, and other tools for presenting analytics.
-- **Web scraping:** experience in extracting data from websites using tools and libraries such as BeautifulSoup, Scrapy, and Selenium for information gathering and data analysis.
-- **Working with big data:**  experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
-- **Machine Learning Applications:** Capable of building and applying machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
-- **Business and Metric Forecasting:** Building and interpreting time series forecasts for key business metrics using libraries like Uber Orbit and Facebook Prophet for intuitive, robust forecasting to support strategic planning and goal-setting.
-- **Working with APIs:**  integrating and extracting data from various sources via APIs.
-- **Process Automation:** Automating data workflows and routine tasks using Linux scripting, Apache Airflow and other DevOps tools.
+- **Deep data analysis:**
+  - Preprocessing, cleaning, and identifying patterns using visualization to support decision-making.
+- **Writing complex SQL queries:**
+  - Working with nested queries, window functions, CASE and WITH statements for data extraction and analysis.
+- **Understanding product strategy:**
+  - Knowledge of product development and improvement principles, including analyzing user needs and formulating recommendations for its growth.
+- **Product metrics analysis:**
+  - LTV, RR, CR, ARPU, ARPPU, MAU, DAU, and other key performance indicators.
+- **Conducting A/B testing:**
+  - Analyzing results using statistical methods to evaluate the effectiveness of changes.
+- **Cohort analysis and RFM segmentation:**
+  - Identifying user behavior patterns to optimize marketing strategies.
+- **End-to-End Data Pipelines:**
+  - Building automated ETL processes from databases to dashboards with Airflow orchestration.
+- **Data visualization and dashboard development:**
+  - Creating interactive reports in Tableau, Redash, Power BI, and other tools for presenting analytics.
+- **Web scraping:**
+  - Experience in extracting data from websites using tools and libraries such as BeautifulSoup, Scrapy, and Selenium for information gathering and data analysis.
+- **Working with big data:**
+  - Experience with tools and technologies for processing large volumes of data (e.g., Hadoop, Spark).
+- **Machine Learning Applications:**
+  - Capable of building and applying machine learning models for data analysis tasks, including forecasting, classification, and clustering, to uncover deeper insights and enhance decision-making processes.
+- **Business and Metric Forecasting:**
+  - Building and interpreting time series forecasts for key business metrics using libraries like Uber Orbit and Facebook Prophet for intuitive, robust forecasting to support strategic planning and goal-setting.
+- **Working with APIs:**
+  - Integrating and extracting data from various sources via APIs.
+- **Process Automation:**
+  - Automating data workflows and routine tasks using Linux scripting, Apache Airflow and other DevOps tools.
   
 [⬆ back to contents](#contents)
 
