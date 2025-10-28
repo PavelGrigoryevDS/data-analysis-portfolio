@@ -25,9 +25,9 @@ A collection of data analysis projects demonstrating end-to-end analytics capabi
 
 ## 🧑‍💻 About me
 
-I hold a higher technical education.  
-I specialize in data analysis with a focus on empowering informed decision-making.     
-By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
+- I hold a higher technical education.  
+- I specialize in data analysis with a focus on empowering informed decision-making.     
+- By extracting insights from complex data sets, I help organizations make data-driven decisions that drive business growth and improvement.  
 
 ---
 
